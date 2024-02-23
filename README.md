@@ -10,7 +10,6 @@ A simple web tool for generating CSS gradient code with customizable options.
 - [Options](#options)
 - [Responsive Design](#responsive-design)
 - [How to Contribute](#how-to-contribute)
-- [License](#license)
 
 ## Introduction
 
@@ -75,8 +74,6 @@ If you have suggestions, bug reports, or would like to contribute to the project
 3. Make your modifications and commit them.
 4. Push to your fork and submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to use, modify, and distribute the code for your projects. If you find it helpful, consider giving it a star!
