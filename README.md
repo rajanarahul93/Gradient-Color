@@ -16,7 +16,7 @@ A simple web tool for generating CSS gradient code with customizable options.
 
 Gradient Generator is a user-friendly web application that allows you to create beautiful CSS gradients effortlessly. Whether you are a web designer, developer, or just looking for inspiration, this tool simplifies the process of generating gradient codes for your projects.
 
-Visit the live demo: [Gradient Generator](https://gradient-color-sage.vercel.app/)(#)
+Visit the live demo: [Gradient Generator](https://gradient-color-sage.vercel.app/)()
 
 ![image](https://github.com/rajanarahul93/Gradient-Color/assets/123227543/f73272c7-ac8e-4a33-bff2-f29d1c987946)
 
